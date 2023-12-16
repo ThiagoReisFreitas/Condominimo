@@ -1,0 +1,2 @@
+# Condominimo
+A simple manager
